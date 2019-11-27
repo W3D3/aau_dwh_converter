@@ -1,3 +1,12 @@
+create table exams
+(
+	grade integer,
+	lecturer integer,
+	course varchar,
+	time varchar,
+	student integer
+);
+
 INSERT INTO public.exams (grade, lecturer, course, time, student) VALUES (2, 772243224, '623.254', '2019-06-24', 9000078);
 INSERT INTO public.exams (grade, lecturer, course, time, student) VALUES (1, 772243224, '623.254', '2019-06-24', 9000079);
 INSERT INTO public.exams (grade, lecturer, course, time, student) VALUES (3, 772243224, '623.254', '2019-06-24', 9000082);
