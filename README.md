@@ -1,7 +1,7 @@
 # Assignment 4
 
 Authors (alphabetic):
-Christof Bachmann, Andreas Tscheinig, Peter Waysocher, Christoph Wedenig
+Christof Bachmann, Fabian Stiegler, Andreas Tscheinig, Peter Waysocher, Christoph Wedenig
 
 ## Schema
 
