@@ -1,0 +1,53 @@
+{
+	"id": "ATEOS1000019137",
+	"name": "Alpen-Adria Universität Klagenfurt",
+	"state": "Carinthia",
+	"city": "Klagenfurt am Wörthersee",
+	"street": "Universitätsstraße 65-67",
+	"zip": "9020",
+	"study_plans": [{
+			"id": "511",
+			"name": "Angewandte Informatik",
+			"type": "Bachelor",
+			"branch": "Informatik"
+		},
+		{
+			"id": "522",
+			"name": "Informationsmanagement",
+			"type": "Bachelor",
+			"branch": "Informatik"
+		},
+		{
+			"id": "922",
+			"name": "Informationsmanagement",
+			"type": "Master"
+		},
+		{
+			"id": "911",
+			"name": "Angewandte Informatik",
+			"type": "Master",
+			"branch": "Informatik"
+		}
+	],
+	"lecturers": [{
+			"id": "36866626",
+			"name": "Assoc.Prof. Dipl.-Ing. Dr. Klaus Schöffmann",
+			"department": "ITEC"
+		},
+		{
+			"id": "2077308266",
+			"name": "Postdoc-Ass. Dr. Dragi Kimovski",
+			"department": "ITEC"
+		},
+		{
+			"id": "834107405",
+			"name": "O.Univ.-Prof. Dipl.-Ing. Dr. Johann Eder ",
+			"department": "ISYS"
+		},
+		{
+			"id": "772243224",
+			"name": "Assoc.-Prof. Dipl.-Ing. Dr. Julius Köpke",
+			"department": "ISYS"
+		}
+	]
+}

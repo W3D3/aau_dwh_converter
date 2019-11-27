@@ -1,0 +1,25 @@
+{"course" : "623.254",
+"examinator" : "772243224",
+"date" : "2019-06-24",
+"results" : [
+	{"matno" : "9000078", "name":"Sara Groß", "grade" : "2", "studyplan" : "911"},
+	{"matno" : "9000079", "name":"Lara Seidel", "grade" : "1", "studyplan" : "922"},
+	{"matno" : "9000082", "name":"Sofie Haas", "grade" : "3", "studyplan" : "911"},
+	{"matno" : "9000083", "name":"Sophia Schreiber", "grade" : "2", "studyplan" : "922"},
+	{"matno" : "9000086", "name":"Nele Dietrich", "grade" : "2", "studyplan" : "911"},
+	{"matno" : "9000087", "name":"Neele Ziegler", "grade" : "3", "studyplan" : "922"},
+	{"matno" : "9000090", "name":"Maya Pohl", "grade" : "1", "studyplan" : "911"},
+	{"matno" : "9000091", "name":"Amelie Engel", "grade" : "2", "studyplan" : "922"},
+	{"matno" : "9000094", "name":"Lucas Bergmann", "grade" : "5", "studyplan" : "911"},
+	{"matno" : "9000095", "name":"Lukas Thomas", "grade" : "3", "studyplan" : "922"},
+	{"matno" : "9000098", "name":"Luka Arnold", "grade" : "2", "studyplan" : "911"},
+	{"matno" : "9000099", "name":"Paul Wolff", "grade" : "1", "studyplan" : "922"},
+	{"matno" : "9000080", "name":"Laura Heinrich", "grade" : "4", "studyplan" : "511"},
+	{"matno" : "9000081", "name":"Sophie Brandt", "grade" : "3", "studyplan" : "522"},
+	{"matno" : "9000084", "name":"Sofia Graf", "grade" : "5", "studyplan" : "511"},
+	{"matno" : "9000085", "name":"Lina Schulte", "grade" : "1", "studyplan" : "522"},
+	{"matno" : "9000088", "name":"Johanna Kuhn", "grade" : "5", "studyplan" : "511"},
+	{"matno" : "9000089", "name":"Maja Kühn", "grade" : "2", "studyplan" : "522"}
+]
+   
+}
