@@ -11,8 +11,6 @@ create table course
 	university varchar
 );
 
-alter table course owner to wedenigc;
-
 create unique index course_id_uindex
 	on course (id);
 
