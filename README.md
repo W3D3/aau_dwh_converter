@@ -3,6 +3,10 @@
 Authors (alphabetic):
 Christof Bachmann, Andreas Tscheinig, Peter Waysocher, Christoph Wedenig
 
+## Schema
+
+![Schema Image](./schema.png "Schema")
+
 ## Usage
 
 - cd into the folder.
